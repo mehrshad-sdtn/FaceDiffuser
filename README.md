@@ -38,9 +38,15 @@ The fine-tuned model shows noticeable improvements in facial structure, sharpnes
 
 ## Potential Downstream Applications
 
-- 🎨 Avatar & character design for gaming, AR/VR, and social apps  
-- 🖼️ Photographic restoration and upscaling  
-- 💄 Virtual try-on (makeup, glasses, hairstyles)  
-- 🧪 Data augmentation for facial recognition or landmark detection  
-- 📚 Concept art and visual storytelling  
-- 🧠 NPC generation in interactive fiction and virtual worlds
+-  Avatar & character design for gaming, AR/VR, and social apps  
+-  Photographic restoration and upscaling  
+-  Virtual try-on (makeup, glasses, hairstyles)  
+-  Data augmentation for facial recognition or landmark detection  
+-  Concept art and visual storytelling  
+-  NPC generation in interactive fiction and virtual worlds
+-  3D face generation
+
+
+## Report and Downstream 3D generation
+We have also used [Wonder3D](https://arxiv.org/abs/2310.15008) which is an image to 3D model to generate 3D meshes from our model's output and achieved pretty interesting results. You can read the report [here]().
+
