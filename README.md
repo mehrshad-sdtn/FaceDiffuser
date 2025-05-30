@@ -48,5 +48,13 @@ The fine-tuned model shows noticeable improvements in facial structure, sharpnes
 
 
 ## Report and Downstream 3D generation
-We have also used [Wonder3D](https://arxiv.org/abs/2310.15008) which is an image to 3D model to generate 3D meshes from our model's output and achieved pretty interesting results. You can read the report [here]().
+We have also used [Wonder3D](https://arxiv.org/abs/2310.15008) which is an image to 3D model to generate 3D meshes from our model's output and achieved pretty interesting results. You can read the extensive report [here](https://github.com/mehrshad-sdtn/FaceDiffuser/blob/master/CSCI-677.pdf).
+
+
+### Group Members
+This project is part of the CSCI-677 final project at University of Southern California instructed by Dr. Yue Wang
+Group members are:
+- Mehrshad Saadatinia
+- Minoo Ahmadi
+- Armin Abdollahi
 
